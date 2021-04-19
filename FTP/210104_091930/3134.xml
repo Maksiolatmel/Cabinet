@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Vopros>
+		<ID>3134</ID>
+		<Voted>04.01.2021 9:24:27</Voted>
+		<Present>33</Present>
+		<Total>37</Total>
+		<Short>Питання № 5</Short>
+		<Long>Зміст питання номер 5</Long>
+		<Yes>22</Yes>
+		<Absent>0</Absent>
+		<No>2</No>
+		<Vids>4</Vids>
+		<Pass>9</Pass>
+		<Result>РІШЕННЯ ПРИЙНЯТО</Result>
+		<Poimen>
+			<Deputat>
+				<Name>Біляєва-Д. Ольга Вікторівна</Name>
+				<Golos>Відсутній</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Бугайчук Василь Васильович</Name>
+				<Golos>Відсутній</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Бузько Юрій Іванович</Name>
+				<Golos>За</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Гаврилюк Лілія Миколаївна</Name>
+				<Golos>За</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Гапоненко Дмитро Миколайович</Name>
+				<Golos>За</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Гончаренко Олег Васильович</Name>
+				<Golos>За</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Гуляєв Дмитро Вадимович</Name>
+				<Golos>За</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Дашківська Валентина Валентинівна</Name>
+				<Golos>За</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Демченко Оксана Юріївна</Name>
+				<Golos>За</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Дудніков Михайло Юрійович</Name>
+				<Golos>За</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Жорін Петро Леонтійович</Name>
+				<Golos>За</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Журило Сергій Іванович</Name>
+				<Golos>За</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Жуха Леонід Іванович</Name>
+				<Golos>Відсутній</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Зайцев Василь Володимирович</Name>
+				<Golos>За</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Звеняцький Михайло Семенович</Name>
+				<Golos>За</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Ковальчук Володимир Георгійович</Name>
+				<Golos>За</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Кришмар Дмитро Юрійович</Name>
+				<Golos>За</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Крючкова Надія Яковлівна</Name>
+				<Golos>Відсутній</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Кузар Олена Вікторівна</Name>
+				<Golos>За</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Левченко Андрій Геннадійович</Name>
+				<Golos>За</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Лисиця Олександр Петрович</Name>
+				<Golos>За</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Маляренко Олексій Сергійович</Name>
+				<Golos>За</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Мартинов Геннадій Олексійович</Name>
+				<Golos>За</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Марченко Андрій Анатолійович</Name>
+				<Golos>За</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Миза Сергій Васильович</Name>
+				<Golos>Проти</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Наумова Тетяна Іванівна</Name>
+				<Golos>Н/Г</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Опря Микола Васильович</Name>
+				<Golos>Н/Г</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Поліщук Олег Ігорович</Name>
+				<Golos>Н/Г</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Сміренський Іван Валерійович</Name>
+				<Golos>Н/Г</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Філатова Ганна Василівна</Name>
+				<Golos>Н/Г</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Харченко Віктор Якович</Name>
+				<Golos>Н/Г</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Хмельнюк Валерій Якович</Name>
+				<Golos>Н/Г</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Чегаринська Катерина Володимирівна</Name>
+				<Golos>Н/Г</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Червачов Михайло Сергійович</Name>
+				<Golos>Проти</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Червачов Сергій Миколайович</Name>
+				<Golos>Н/Г</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Червачова Олена Михайлівна</Name>
+				<Golos>За</Golos>
+			</Deputat>
+			<Deputat>
+				<Name>Шлапак Олександр Пилипович</Name>
+				<Golos>За</Golos>
+			</Deputat>
+		</Poimen>
+</Vopros>

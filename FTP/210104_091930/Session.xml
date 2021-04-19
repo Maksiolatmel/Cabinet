@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Session>
+	<Name>Тестування FTP
+ (перезапис сесії
+перша спроба)</Name>
+	<Date>04.01.2021 09:19:30</Date>
+	<Present>33</Present>
+	<Total>37</Total>
+	<Vopr>6</Vopr>
+	<Dir>210104_091930</Dir>
+<Voprosy>
+	<Vopros>
+		<ID>3130</ID>
+		<Voted>04.01.2021 9:19:52</Voted>
+		<Present>33</Present>
+		<Total>37</Total>
+		<Short>Питання № 1</Short>
+		<Long>Зміст питання номер 1</Long>
+		<Yes>14</Yes>
+		<Absent>2</Absent>
+		<No>8</No>
+		<Pass>9</Pass>
+		<Result>РІШЕННЯ НЕ ПРИЙНЯТО</Result>
+	</Vopros>
+	<Vopros>
+		<ID>3131</ID>
+		<Voted>04.01.2021 9:20:50</Voted>
+		<Present>33</Present>
+		<Total>37</Total>
+		<Short>Питання № 2</Short>
+		<Long>Зміст питання номер 2</Long>
+		<Yes>16</Yes>
+		<Absent>0</Absent>
+		<No>8</No>
+		<Pass>9</Pass>
+		<Result>РІШЕННЯ НЕ ПРИЙНЯТО</Result>
+	</Vopros>
+	<Vopros>
+		<ID>3132</ID>
+		<Voted>04.01.2021 9:22:04</Voted>
+		<Present>33</Present>
+		<Total>37</Total>
+		<Short>Питання № 3</Short>
+		<Long>Зміст питання номер 3</Long>
+		<Yes>18</Yes>
+		<Absent>0</Absent>
+		<No>6</No>
+		<Pass>9</Pass>
+		<Result>РІШЕННЯ НЕ ПРИЙНЯТО</Result>
+	</Vopros>
+	<Vopros>
+		<ID>3133</ID>
+		<Voted>04.01.2021 9:23:23</Voted>
+		<Present>33</Present>
+		<Total>37</Total>
+		<Short>Питання № 4</Short>
+		<Long>Зміст питання номер 4</Long>
+		<Yes>20</Yes>
+		<Absent>0</Absent>
+		<No>4</No>
+		<Pass>9</Pass>
+		<Result>РІШЕННЯ ПРИЙНЯТО</Result>
+	</Vopros>
+	<Vopros>
+		<ID>3134</ID>
+		<Voted>04.01.2021 9:24:27</Voted>
+		<Present>33</Present>
+		<Total>37</Total>
+		<Short>Питання № 5</Short>
+		<Long>Зміст питання номер 5</Long>
+		<Yes>22</Yes>
+		<Absent>0</Absent>
+		<No>2</No>
+		<Pass>9</Pass>
+		<Result>РІШЕННЯ ПРИЙНЯТО</Result>
+	</Vopros>
+</Voprosy>
+</Session>

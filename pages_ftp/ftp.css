@@ -1,0 +1,270 @@
+.header{
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	width: 100%;
+  margin: 10px 0;
+  padding: 0px;
+  line-height: 1;
+  color: black;
+}
+.header1{
+  font-size: 15px;
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+  width: 100%;
+  margin: 5px ;
+  padding: 0px;
+  line-height: 1;
+  color: black;
+}
+
+.header1_Left{
+  font-size: 15px;
+  font-weight: bold;
+  //font-style: italic;
+  text-align: left;
+  width: 100%;
+  margin: 5px ;
+  padding: 0px;
+  line-height: 1;
+  color: black;
+}
+
+.header_time{
+  float: right;
+  font-size: 15px;
+  font-weight: bold;
+  font-style: italic;
+  text-align: left;
+  margin: 5px ;
+  padding: 0px;
+  line-height: 1;
+  color: black;
+}
+
+.header_justify{
+  font-size: 18px;
+  text-align: justify;
+  margin: 5px ;
+  padding: 0px;
+  //line-height: 1;
+  color: black;
+} 
+
+.MainLogo{
+  width:100px;
+  height: 100px;
+}
+
+table.table {
+  background-color: #EEEEEE;
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+table.table td, table.table th {
+  border: 1px solid #AAAAAA;
+  padding: 2px 2px;
+  text-align: center;
+  cursor: pointer;
+  width: 100hw;	  
+}
+
+table.table tbody td {
+  font-size: 13px;
+  padding: 5px 10px;
+  color: black;
+}
+
+table.table tr:nth-child(even) {
+  	background: #D0E4F5;
+}
+
+table.table tbody tr.hovered:hover td{
+	background: yellow;
+}
+
+table.table thead {
+  background: #3E04FB;
+  color: yellow;
+}
+table.table thead th {
+  font-size: 15px;
+  font-weight: bold;
+  //color: #FFFFFF;
+  color: yellow;
+  background: #3E04FB; 
+  border-left: 2px solid #D0E4F5;
+}
+table.table thead th:first-child {
+  border-left: none;
+}
+
+table.table tfoot {
+  font-size: 14px;
+  font-weight: bold;
+  color: #FFFFFF;
+  background: #D0E4F5;
+  background: -moz-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+  background: -webkit-linear-gradient(top, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+  background: linear-gradient(to bottom, #dcebf7 0%, #d4e6f6 66%, #D0E4F5 100%);
+  border-top: 2px solid #444444;
+}
+table.table tfoot td {
+  font-size: 14px;
+}
+table.table tfoot .links {
+  text-align: right;
+}
+table.table tfoot .links a{
+  display: inline-block;
+  background: #1C6EA4;
+  color: #FFFFFF;
+  padding: 2px 8px;
+  border-radius: 5px;
+}
+
+#BackToSession, #BackToVopr, #Druk{
+  margin: 10px 0;
+}
+
+.TDLogo{
+  width: 100%;
+  text-align: center;
+}
+.TDLogo img{
+  margin: 10%;
+  width: 80%;
+  height: auto;
+}
+
+#Vote {
+  width: 80%;
+  margin: 0px auto;
+  color: black;
+}
+
+.ImLogo{
+  width: 20%;
+  margin: 20px;
+  text-align: center;
+}
+.ImLogo img {
+  width: 100%;
+  height: auto;
+}
+.MainLogo{
+  width:100px;
+  height: 100px;
+}
+
+.MainHeader{
+  font-size: 40px;
+  float: right;
+  width: calc(100% - 100px);
+  margin-top: 20px;
+  text-align: center;
+  color: black;
+}
+
+table.RK {
+  display: none;
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+  vertical-align: top;
+ // border:  1px solid black;
+  background: none;
+}
+table.RK td {
+  //table-layout: auto;
+  text-align: left;
+  vertical-align: top;
+  font-size: 15px;
+  font-weight: bold;
+  color: black;
+  background: none;
+  border: none;
+ // border: 1px solid black;
+}
+
+
+table.session {
+  width: 100%;
+  text-align: center;
+  border-collapse: collapse;
+  vertical-align: top;
+  border: none;
+  background: none;
+}
+
+table.session td {
+  text-align: center;
+  vertical-align: top;
+  font-size: 15px;
+  font-weight: bold;
+  color: black;
+  background: none;
+  border: none;
+  //border: 1px solid black;
+}
+
+.col-but{
+  text-align: center;
+  display:block;
+  vertical-align: top;
+}
+
+
+@media print {
+  
+  @page {
+        size: A4;
+        margin: 10mm auto;
+    }
+
+  * {
+      -webkit-print-color-adjust: exact;
+      print-color-adjust: exact;
+   }
+  
+  table.table thead th { 
+    color: black !important; 
+    border: 1px solid #000000 !important;
+    background: #FFFFFF !important;
+    padding: 0 !important;
+    font-size: 4mm !important; 
+  }  
+
+  table.table tbody td { 
+    color: black !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    font-size: 4mm !important;  
+  } 
+
+  table.session td{
+    font-size: 6mm !important;
+
+  }
+
+  table.RK {
+    display: table;
+  }
+
+  #DrukArea{
+    width:80%;
+    margin: 0 auto;
+  }  
+
+  .header{
+    font-size: 7mm;
+  }
+  .header1{
+    font-size: 5mm;
+  }
+
+}
+
